@@ -1,0 +1,12 @@
+.gradle
+/local.properties
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+/.idea/libraries
+.DS_Store
+/build
