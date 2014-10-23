@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">PhotoPath</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="popular_photos_caption">Popular Photos</string>
+    <string name="caption_default_text">Default Caption Text</string>
 
 </resources>
